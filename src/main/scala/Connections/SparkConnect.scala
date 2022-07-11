@@ -1,0 +1,5 @@
+package Connections
+
+object SparkConnect {
+
+}
